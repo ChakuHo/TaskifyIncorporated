@@ -1,19 +1,17 @@
 # TaskifyIncorporated
-TaskifyIncorporated is a collaborative task management web application built with Java (Jakarta EE/Servlets/JSP) and MySQL. It allows teams to create, assign, and track tasks efficiently, featuring user authentication, task status updates, and a web-based dashboard. Database management was handled using phpMyAdmin.
 
-# TaskifyIncorporated
-
-A collaborative task management web application for teams, built with Java (Jakarta EE/Servlets/JSP) and MySQL.
+A freelancing web application inspired by Fiverr, built with Java (Jakarta EE/Servlets/JSP) and MySQL.
 
 ---
 
 ## 🚀 Features
 
-- User registration and login
-- Create, edit, and delete tasks
-- Assign tasks to team members
-- Track task status (To Do, In Progress, Done)
-- Web-based dashboard for easy management
+- User registration and login (as freelancer or client)
+- Post, browse, and search freelance jobs
+- Hire freelancers and manage project offers
+- Messaging system between clients and freelancers
+- Project status tracking (Open, In Progress, Completed)
+- User profile management
 - MySQL database integration (managed via phpMyAdmin)
 
 ---
@@ -26,7 +24,6 @@ A collaborative task management web application for teams, built with Java (Jaka
 - **Server:** Apache Tomcat (or any Java EE server)
 
 ---
-
 
 ## 🏁 Getting Started
 
